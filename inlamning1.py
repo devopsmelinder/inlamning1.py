@@ -8,7 +8,7 @@ def num_one(message):
         else:
             return num_one
             break
-
+        #Avoid the calculator to crash.
 def num_two(message):
     while True:
         try:
