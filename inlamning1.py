@@ -1,3 +1,4 @@
+#There is no magic number, from 0 - max value
 def num_one(message):
     while True:
         try:
